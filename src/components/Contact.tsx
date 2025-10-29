@@ -40,7 +40,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="font-semibold mb-1">Email</h3>
-                  <p className="text-muted-foreground">your.email@example.com</p>
+                  <p className="text-muted-foreground">mpundumaloba23@gmail.com</p>
                 </div>
               </div>
             </div>
@@ -52,7 +52,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="font-semibold mb-1">Phone</h3>
-                  <p className="text-muted-foreground">+260 (***) ***-***</p>
+                  <p className="text-muted-foreground">+260 (767) 113 779</p>
                 </div>
               </div>
             </div>
